@@ -8,6 +8,11 @@
               "minecraft:brush"
             ],
             "nbt": "{Trim:{pattern:\"painting:paintbrush\"}}"
+          },
+          "location": {
+            "block": {
+              "tag": "painting:paintable"
+            }
           }
         }
       }

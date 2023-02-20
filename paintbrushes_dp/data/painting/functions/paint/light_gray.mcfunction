@@ -1,4 +1,6 @@
 execute if block ~ ~ ~ #painting:shulker_box run function painting:paint/light_gray_shulker_box
+execute if block ~ ~ ~ #painting:banner run function painting:paint/light_gray_banner
+execute if block ~ ~ ~ #painting:wall_banner run function painting:paint/light_gray_wall_banner
 
 execute unless score @s block_filled matches 1.. store result score @s block_filled run fill ~ ~ ~ ~ ~ ~ minecraft:light_gray_candle[candles=1] replace #painting:candle[candles=1]
 execute unless score @s block_filled matches 1.. store result score @s block_filled run fill ~ ~ ~ ~ ~ ~ minecraft:light_gray_candle[candles=2] replace #painting:candle[candles=2]
