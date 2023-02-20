@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "painting:trims/items/paintbrush_trim"
+      ],
+      "palette_key": "trims/color_palettes/trim_palette",
+      "permutations": {
+        "black_paint": "painting:trims/color_palettes/black_paint",
+        "blue_paint": "painting:trims/color_palettes/blue_paint",
+        "brown_paint": "painting:trims/color_palettes/brown_paint",
+        "cyan_paint": "painting:trims/color_palettes/cyan_paint",
+        "gray_paint": "painting:trims/color_palettes/gray_paint",
+        "green_paint": "painting:trims/color_palettes/green_paint",
+        "light_blue_paint": "painting:trims/color_palettes/light_blue_paint",
+        "light_gray_paint": "painting:trims/color_palettes/light_gray_paint",
+        "lime_paint": "painting:trims/color_palettes/lime_paint",
+        "magenta_paint": "painting:trims/color_palettes/magenta_paint",
+        "orange_paint": "painting:trims/color_palettes/orange_paint",
+        "pink_paint": "painting:trims/color_palettes/pink_paint",
+        "purple_paint": "painting:trims/color_palettes/purple_paint",
+        "red_paint": "painting:trims/color_palettes/red_paint",
+        "white_paint": "painting:trims/color_palettes/white_paint",
+        "yellow_paint": "painting:trims/color_palettes/yellow_paint"
+      }
+    }
+  ]
+}

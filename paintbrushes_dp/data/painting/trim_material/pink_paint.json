@@ -1,0 +1,9 @@
+{
+    "asset_name": "pink_paint",
+    "description": {
+      "color": "#a46381",
+      "text": "Pink Paint"
+    },
+    "ingredient": "minecraft:pink_dye",
+    "item_model_index": 0.012
+  }

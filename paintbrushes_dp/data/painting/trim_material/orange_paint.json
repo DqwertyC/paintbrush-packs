@@ -1,0 +1,9 @@
+{
+    "asset_name": "orange_paint",
+    "description": {
+      "color": "#be6915",
+      "text": "Orange Paint"
+    },
+    "ingredient": "minecraft:orange_dye",
+    "item_model_index": 0.011
+  }

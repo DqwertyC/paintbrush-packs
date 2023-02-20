@@ -1,0 +1,9 @@
+{
+    "asset_name": "purple_paint",
+    "description": {
+      "color": "#693184",
+      "text": "Purple Paint"
+    },
+    "ingredient": "minecraft:purple_dye",
+    "item_model_index": 0.013
+  }

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "painting:item/paintbrush_handle",
+    "layer1": "painting:trims/items/paintbrush_trim_lime_paint"
+  }
+}

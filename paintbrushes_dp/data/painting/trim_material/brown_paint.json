@@ -1,0 +1,9 @@
+{
+    "asset_name": "brown_paint",
+    "description": {
+      "color": "#5c3112",
+      "text": "Brown Paint"
+    },
+    "ingredient": "minecraft:brown_dye",
+    "item_model_index": 0.003
+  }

@@ -1,0 +1,9 @@
+{
+    "asset_name": "light_gray_paint",
+    "description": {
+      "color": "#a2a2b5",
+      "text": "Light Gray Paint"
+    },
+    "ingredient": "minecraft:light_gray_dye",
+    "item_model_index": 0.008
+  }

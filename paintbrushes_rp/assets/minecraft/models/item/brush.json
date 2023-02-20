@@ -1,0 +1,104 @@
+{
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "model": "painting:item/brush_black_paint_trim",
+      "predicate": {
+        "trim_type": 0.001
+      }
+    },
+    {
+      "model": "painting:item/brush_blue_paint_trim",
+      "predicate": {
+        "trim_type": 0.002
+      }
+    },
+    {
+      "model": "painting:item/brush_brown_paint_trim",
+      "predicate": {
+        "trim_type": 0.003
+      }
+    },
+    {
+      "model": "painting:item/brush_cyan_paint_trim",
+      "predicate": {
+        "trim_type": 0.004
+      }
+    },
+    {
+      "model": "painting:item/brush_gray_paint_trim",
+      "predicate": {
+        "trim_type": 0.005
+      }
+    },
+    {
+      "model": "painting:item/brush_green_paint_trim",
+      "predicate": {
+        "trim_type": 0.006
+      }
+    },
+    {
+      "model": "painting:item/brush_light_blue_paint_trim",
+      "predicate": {
+        "trim_type": 0.007
+      }
+    },
+    {
+      "model": "painting:item/brush_light_gray_paint_trim",
+      "predicate": {
+        "trim_type": 0.008
+      }
+    },
+    {
+      "model": "painting:item/brush_lime_paint_trim",
+      "predicate": {
+        "trim_type": 0.009
+      }
+    },
+    {
+      "model": "painting:item/brush_magenta_paint_trim",
+      "predicate": {
+        "trim_type": 0.010
+      }
+    },
+    {
+      "model": "painting:item/brush_orange_paint_trim",
+      "predicate": {
+        "trim_type": 0.011
+      }
+    },
+    {
+      "model": "painting:item/brush_pink_paint_trim",
+      "predicate": {
+        "trim_type": 0.012
+      }
+    },
+    {
+      "model": "painting:item/brush_purple_paint_trim",
+      "predicate": {
+        "trim_type": 0.013
+      }
+    },
+    {
+      "model": "painting:item/brush_red_paint_trim",
+      "predicate": {
+        "trim_type": 0.014
+      }
+    },
+    {
+      "model": "painting:item/brush_white_paint_trim",
+      "predicate": {
+        "trim_type": 0.015
+      }
+    },
+    {
+      "model": "painting:item/brush_yellow_paint_trim",
+      "predicate": {
+        "trim_type": 0.016
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/brush"
+  }
+}

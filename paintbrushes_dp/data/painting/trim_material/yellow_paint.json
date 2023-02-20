@@ -1,0 +1,9 @@
+{
+    "asset_name": "yellow_paint",
+    "description": {
+      "color": "#b1973d",
+      "text": "Yellow Paint"
+    },
+    "ingredient": "minecraft:yellow_dye",
+    "item_model_index": 0.016
+  }

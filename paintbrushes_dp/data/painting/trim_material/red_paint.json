@@ -1,0 +1,9 @@
+{
+    "asset_name": "red_paint",
+    "description": {
+      "color": "#82222c",
+      "text": "Red Paint"
+    },
+    "ingredient": "minecraft:red_dye",
+    "item_model_index": 0.014
+  }

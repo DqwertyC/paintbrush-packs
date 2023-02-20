@@ -1,0 +1,9 @@
+{
+    "asset_name": "magenta_paint",
+    "description": {
+      "color": "#83387e",
+      "text": "Magenta Paint"
+    },
+    "ingredient": "minecraft:magenta_dye",
+    "item_model_index": 0.010
+  }

@@ -1,0 +1,7 @@
+{
+  "asset_id": "painting:paintbrush",
+  "description": {
+    "text": "Paint Brush"
+  },
+  "template_item": "minecraft:bowl"
+}

@@ -1,0 +1,9 @@
+{
+    "asset_name": "cyan_paint",
+    "description": {
+      "color": "#114a60",
+      "text": "Cyan Paint"
+    },
+    "ingredient": "minecraft:cyan_dye",
+    "item_model_index": 0.004
+  }

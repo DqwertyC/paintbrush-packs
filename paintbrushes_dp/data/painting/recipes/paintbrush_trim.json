@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": {
+    "tag": "painting:dyes"
+  },
+  "base": {
+    "item": "minecraft:brush"
+  },
+  "template": {
+    "item": "minecraft:bowl"
+  }
+}
