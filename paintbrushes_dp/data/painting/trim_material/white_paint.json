@@ -1,7 +1,7 @@
 {
     "asset_name": "white_paint",
     "description": {
-      "color": "#c5c5c5",
+      "color": "#F6F6F7",
       "text": "White Paint"
     },
     "ingredient": "minecraft:white_dye",

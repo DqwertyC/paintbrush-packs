@@ -1,7 +1,7 @@
 {
     "asset_name": "light_blue_paint",
     "description": {
-      "color": "#2a4e7f",
+      "color": "#7F9FCB",
       "text": "Light Blue Paint"
     },
     "ingredient": "minecraft:light_blue_dye",

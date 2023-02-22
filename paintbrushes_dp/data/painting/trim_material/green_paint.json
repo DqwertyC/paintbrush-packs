@@ -1,7 +1,7 @@
 {
     "asset_name": "green_paint",
     "description": {
-      "color": "#2e450d",
+      "color": "#60812C",
       "text": "Green Paint"
     },
     "ingredient": "minecraft:green_dye",
