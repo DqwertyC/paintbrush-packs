@@ -1,7 +1,7 @@
 {
     "asset_name": "gray_paint",
     "description": {
-      "color": "#585858",
+      "color": "#808080",
       "text": "Gray Paint"
     },
     "ingredient": "minecraft:gray_dye",

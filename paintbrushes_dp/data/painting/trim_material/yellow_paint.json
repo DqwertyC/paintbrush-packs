@@ -1,7 +1,7 @@
 {
     "asset_name": "yellow_paint",
     "description": {
-      "color": "#b1973d",
+      "color": "#E6DC7D",
       "text": "Yellow Paint"
     },
     "ingredient": "minecraft:yellow_dye",

@@ -1,1 +1,2 @@
+scoreboard objectives add crouch_time minecraft.custom:minecraft.sneak_time
 scoreboard objectives add block_filled dummy
