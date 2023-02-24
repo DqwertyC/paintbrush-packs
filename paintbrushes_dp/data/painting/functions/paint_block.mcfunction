@@ -15,7 +15,7 @@ execute if entity @s[nbt={SelectedItem:{tag:{Trim:{material:"painting:red_paint"
 execute if entity @s[nbt={SelectedItem:{tag:{Trim:{material:"painting:white_paint"}}}}] run function painting:paint/white/block
 execute if entity @s[nbt={SelectedItem:{tag:{Trim:{material:"painting:yellow_paint"}}}}] run function painting:paint/yellow/block
 
-execute if score @s block_filled matches 1.. run item modify entity @s[gamemode=!creative] weapon.mainhand painting:add_damage
+execute if score @s block_filled matches 1.. if entity @s[gamemode=!creative] run function painting:add_damage
 execute if entity @s[nbt={SelectedItem:{tag:{Damage:64}}}] at @s run playsound minecraft:entity.goat.horn_break player @s ~ ~ ~ 1 1
 execute if entity @s[nbt={SelectedItem:{tag:{Damage:64}}}] run item replace entity @s weapon.mainhand with minecraft:air
 
